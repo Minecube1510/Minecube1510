@@ -43,6 +43,36 @@ Status:
 ## Skill
 My Skills so far now (**2026**)
 
+### Productive
+
+<table>
+<tr><td>
+
+**Microsoft**
+</td><td>
+
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=onlyoffice&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=onlyoffice&logoColor=white)
+![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=onlyoffice&logoColor=white)
+</td></tr><tr><td>
+
+**Libre Office**
+</td><td>
+
+![LibreOffice Writter](https://img.shields.io/badge/LibreOffice_Writter-2B579A?style=for-the-badge&logo=libreofficewriter&logoColor=white)
+![LibreOffice Calc](https://img.shields.io/badge/LibreOffice_Calc-217346?style=for-the-badge&logo=libreofficecalc&logoColor=white)
+![LibreOffice Impress](https://img.shields.io/badge/LibreOffice_Impress-B7472A?style=for-the-badge&logo=libreofficeimpress&logoColor=white)
+</td></tr><tr><td>
+
+**Google**
+</td><td>
+
+![Google Docs](https://img.shields.io/badge/Google_Docs-2B579A?style=for-the-badge&logo=googledocs&logoColor=white)
+![Google Spreadsheet](https://img.shields.io/badge/Google_Spreadsheet-217346?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Slides](https://img.shields.io/badge/Google_Slides-B7472A?style=for-the-badge&logo=googleslides&logoColor=white)
+</td></tr>
+</table>
+
 ### Coding
 
 <table>
@@ -93,7 +123,10 @@ Section of Webs
 **Artifical Intellegence**
 </td><td>
 
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=chatbot&logoColor=white)](https://chatgpt.com)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com)
+[![Grok](https://img.shields.io/badge/Grok-101010?style=for-the-badge&logo=chatbot&logoColor=white)](https://grok.com)
+[![Github Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/copilot)
 </td></tr>
 </table>
 
@@ -123,7 +156,7 @@ WA: ?
 Twitter/X: ?
 -->
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=socialblade&logoColor=white)](https://www.twitter.com/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/)
 </td></tr><tr><td>
 
