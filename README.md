@@ -74,40 +74,52 @@ Section of Webs
 **Meta**
 </td><td>
 
+<!--
+FB: ?
+IG: ?
+WA: ?
+-->
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
-<!-- FB -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-<!-- IG -->
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
-<!-- WA -->
 </td></tr><tr><td>
 
 **Elon**
 </td><td>
 
+<!--
+Twitter/X: ?
+-->
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/)
-<!-- Twitter/X -->
 </td></tr><tr><td>
 
 **Google**
 </td><td>
 
+<!--
+Gmail: ?
+YT: ?
+YT Music: ?
+-->
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
-<!-- LIMIT -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
-<!-- Youtube Channel -->
 [![Youtube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/)
-<!-- Youtube Music Channel -->
 </td></tr><tr><td>
 
 **Others**
 </td><td>
 
+<!--
+DC: ?
+Tele: ?
+-->
+
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-<!-- https://discord.com/channels/@me -->
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/)
-<!-- Tele -->
 </td></tr>
 </table>
 
