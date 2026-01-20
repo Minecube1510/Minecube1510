@@ -1,5 +1,13 @@
 # About Me (Minecube1510)
 
+<style>
+.no-drag {
+  user-select: none;
+  -webkit-user-drag: none;
+  pointer-events: none; /* opsional, tapi bikin gak bisa klik */
+}
+</style>
+
 ![Header](/img/github-header-banner.png)
 
 <!--
@@ -13,7 +21,10 @@ I'm just a Programmer and Developer.
 
 ### Coding
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<div><img draggable="false" class="no-drag" ondragstart="return false;" oncontextmenu="return false;"
+src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+alt="[Badge] HTML"></div>
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 <!-- LIMIT -->
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
