@@ -9,6 +9,37 @@ Cara penggunaan:
 
 *I'm just a Programmer and Developer.*
 
+## My Projects
+Just My Projects...
+
+<!--
+Projects:
+[0] MMQ (Moe Moe Cune)
+[0] Sample Memory
+[0] PvZ Fusion Guide
+[0] Anime Sentai
+
+Temp:
+[-] Later
+
+Status:
+[0] = None Added
+[WIP] = Work in Progress
+[10] = Complete
+-->
+
+### For Added
+- [![MMQ](https://img.shields.io/badge/MMQ-000000?style=for-the-badge&logoColor=white&logo=)](https://www.github.com/)
+- [![Anime Sentai](https://img.shields.io/badge/Anime_Sentai-000000?style=for-the-badge&logoColor=white&logo=)](https://www.github.com/)
+
+### In - Working
+
+- [![Sample Memory](https://img.shields.io/badge/Sample_Memory-000000?style=for-the-badge&logoColor=white&logo=)](https://www.github.com/)
+- [![PvZ Fusion Guide](https://img.shields.io/badge/PvZ_Fusion_Guide-000000?style=for-the-badge&logoColor=white&logo=)](https://www.github.com/)
+
+### Done
+- None...
+
 ## Skill
 My Skills so far now (**2026**)
 
