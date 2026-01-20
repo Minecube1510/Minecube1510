@@ -29,13 +29,13 @@ Status:
 -->
 
 ### For Added
-- [![MMQ](https://img.shields.io/badge/MMQ-000000?style=for-the-badge&logoColor=white&logo=)](https://www.github.com/)
-- [![Anime Sentai](https://img.shields.io/badge/Anime_Sentai-000000?style=for-the-badge&logoColor=white&logo=)](https://www.github.com/)
+- [![MMQ](https://img.shields.io/badge/MMQ-BF7B73?style=for-the-badge&logoColor=white&logo=)](https://www.github.com/)
+- [![Anime Sentai](https://img.shields.io/badge/Anime_Sentai-A2746F?style=for-the-badge&logoColor=white&logo=)](https://www.github.com/)
 
 ### In - Working
 
-- [![Sample Memory](https://img.shields.io/badge/Sample_Memory-000000?style=for-the-badge&logoColor=white&logo=)](https://www.github.com/)
-- [![PvZ Fusion Guide](https://img.shields.io/badge/PvZ_Fusion_Guide-000000?style=for-the-badge&logoColor=white&logo=)](https://www.github.com/)
+- [![Sample Memory](https://img.shields.io/badge/Sample_Memory-046307?style=for-the-badge&logoColor=white&logo=)](https://www.github.com/)
+- [![PvZ Fusion Guide](https://img.shields.io/badge/PvZ_Fusion_Guide-595A5C?style=for-the-badge&logoColor=white&logo=)](https://www.github.com/)
 
 ### Done
 - None...
